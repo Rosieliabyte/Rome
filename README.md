@@ -1,5 +1,7 @@
-# Hi, I'm Anshika Sharma!
-# 🐍 Aspiring Data Analyst | Python | SQL | Excel
+
+# 👋 Hi, I'm Anshika Sharma 
+
+#🐍 Aspiring Data Analyst | Python | SQL | Excel
 
 I'm an aspiring Data Analyst passionate about turning raw data
 into meaningful insights.
@@ -8,53 +10,75 @@ I enjoy working with datasets, cleaning and analyzing data,
 and building practical projects using Python and SQL.
 
 
-#🛠️ Skills
+# 🛠️ Skills
 
-#Programming & Data Analysis
-- Python
-- Pandas
-- NumPy
-- SQL
+#💻 Programming & Data Analysis
 
-# Data Analysis
+- 🐍 Python
+- 🐼 Pandas
+- 🔢 NumPy
+- 🗄️ SQL
+
+#📊 Data Analysis
+
 - Data Cleaning
 - Exploratory Data Analysis (EDA)
 - Data Manipulation
 - Data Visualization
 
-#Tools
+#🔧 Tools
+
 - Excel
-- Jupyter Notebook
+- Python 
 - Git & GitHub
 
----
 
-#📂 Featured Projects
+# 📂 Featured Projects
 
 # 🍔 Food Delivery Orders Analysis
+
 Python-based analysis of raw food delivery order data.
 
-Tech:Python, Pandas, NumPy, EDA
+**Tech:** `Python` `Pandas` `NumPy` `EDA`
+
+
 
 #🐍 Python Fundamentals & Data Handling
+
 Collection of Python projects covering fundamentals through
 intermediate-level data handling.
 
-Tech:Python, Pandas, CSV, DataFrames
+**Tech:** `Python` `Pandas` `CSV` `DataFrames`
 
-### 🛒 E-Commerce Sales Analysis
+
+
+#🛒 E-Commerce Sales Analysis
+
 Analysis of sales data to identify product, revenue,
 and customer trends.
 
-Tech: Python, Pandas, NumPy
+**Tech:** `Python` `Pandas` `NumPy`
 
-#📊 Customer Shopping Behavior Analysis
+
+
+# 📊 Customer Shopping Behavior Analysis
+
 Analysis of customer purchasing patterns and behavior.
 
-Tech:Python, Pandas, Visualization
+**Tech:** `Python` `Pandas` `Data Visualization`
+
 
 #🗄️ E-Commerce Sales Analysis Using SQL
+
 Business-focused analysis using SQL queries and
 advanced SQL techniques.
 
-Tech: SQL
+**Tech:** `SQL`
+
+
+# 📚 Currently Learning
+
+- Advanced SQL
+- Power BI
+- Statistics for Data Analysis
+- Data Visualization
